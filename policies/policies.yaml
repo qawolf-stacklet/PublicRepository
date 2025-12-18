@@ -1,0 +1,4 @@
+policies:
+  - name: test-account-policy
+    resource: aws.account
+    description: An AWS policy for testing
